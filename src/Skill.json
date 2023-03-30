@@ -1,0 +1,44 @@
+[{
+    "id": 1,
+    "skill":"React",
+    "value":80,
+    "percentage":"85 percentage",
+    "Status":0
+    
+ },
+ { 
+    "id": 2,
+    "skill":"Node.JS",
+    "value":40,
+    "percentage":"42 percentage",
+    "Status":0
+   
+ },
+ {
+    "id": 3,
+    "skill":"Html",
+    "value":70,
+    "percentage":"76 percentage",
+   
+      "Status":0
+     
+  
+   
+  
+ },
+{
+    "id": 4,
+    "skill":"Css",
+    "value":40,
+    "percentage":"45 percentage",
+    "Status":0
+ 
+},
+ {
+    "id": 5,
+    "skill":"Javascript",
+    "value":70,
+    "percentage":"75 percentage",
+    "Status":0
+ }
+]

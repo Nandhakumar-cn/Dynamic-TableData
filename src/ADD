@@ -1,0 +1,59 @@
+  // const [add, setadd] = React.useState({
+
+  //   skill: "",
+  //   value: "",
+  //   percentage: ""
+  // })
+
+
+
+
+
+
+  //OnChange value of Adding Data
+  // const addingData = (e) => {
+
+  //   const name = e.target.getAttribute("name");
+  //   const value = e.target.value;
+  //   const newaddData = { ...add }
+  //   newaddData[name] = value;
+  //   setadd(newaddData)
+
+  // }
+
+  //  Add Data on table and submit
+  // const addsubmit = (e) => {
+  //   e.preventDefault();
+  //   const newtable = {
+  //     id: table.length + 1,
+  //     skill: add.skill,
+  //     value: add.value,
+  //     percentage: `${add.percentage} Percentage`
+  //   }
+  //   const addtable = [...table, newtable]
+  //   settable(addtable)
+  //   localStorage.setItem("Details", store)
+  // }
+
+    {/* <form onSubmit={addsubmit} style={{ textAlign: "center" }}>
+        <input type="text"
+          placeholder='skill'
+          onChange={addingData}
+          value={add.skill}
+          name="skill"></input>
+        <br></br>
+        <input type="number"
+          placeholder='Value'
+          onChange={addingData}
+          value={add.value}
+          name="value"></input>
+        <br></br>
+        <input type="text"
+          placeholder='Percentage'
+          onChange={addingData}
+          value={add.percentage}
+          name="percentage"></input>
+        <br></br>
+        <button style={{ backgroundColor: "rgb(169, 169, 169)", color: "black", fontWeight: "bolder", borderRadius: "50px" }}>Add Your New Data</button>
+
+      </form> */}
